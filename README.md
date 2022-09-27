@@ -20,7 +20,7 @@ o Form2 e inseridas nos respectivos campos.
 - A janela de ERRO não pode ser movida propositalmente.
 - Adicionei um Form para confirmar exclusão de linha na tabela, evitando excluir uma linha por engano.
 - Condições de checagem de linha selecionada ou não, evitando erros no programa.
-- Feedback visual no campo ID da janela de CADASTRO, sendo "vermelho" para campo inativo e "verde" para preenchido.
+- Feedback visual no campo ID da janela de CADASTRO, sendo "vermelho" para campo inativo e "cinza" para preenchido.
 - Verificação de campos vazios na janela CADASTRO.
 - Efeito visual de "sombra" em todos os Forms. 
 
