@@ -14,7 +14,7 @@ na descrição do Desafio, apenas para facilitar analise.
 - Adicionei feedback visual as operações feitas pelo usuário<br/>
 - Ao clicar em EDITAR, na janela principal, as informações da linha selecionada da tabela são passadas para <br/>
 o Form2 e inseridas nos respectivos campos.
-- O botão na janela de CADASTRO, é modificado dependendo de como a janela foi chamada, para CADASTRO ou EDIÇÃO.
+- O botão na janela de CADASTRO, é modificado dependendo de como a janela foi chamada, para CADASTRO ou EDIÇÃO.</br>
 <img src="https://github.com/F7AV10/crudDesafio/blob/main/ScreenCrudAvaliativoGitHub03.png" /><br/>
 - Para manter o "design" do projeto, criei Forms para mensagens de ERRO, e não usei as "mensagens" nativas.
 - A janela de ERRO não pode ser movida propositalmente.
